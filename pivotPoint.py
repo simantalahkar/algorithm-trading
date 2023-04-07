@@ -1,4 +1,4 @@
-# Disclaimer: Simanta Lahkar takes no responsibility for outcome of running this code for anyone else! This is for reference only.
+# Disclaimer: Simanta Lahkar takes no responsibilities for outcome of running this code for anyone else! This is for reference only.
 
 import datetime
 import time
